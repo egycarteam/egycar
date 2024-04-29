@@ -1,0 +1,42 @@
+.team
+{
+    margin-top: 3% ;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.teamcard
+{
+    width: 220px;
+    text-align: center;
+    height: 260px;
+    background-color: #4e4ffa;
+    color: #fff;
+    padding: 20px;
+    margin:1%;
+    border-radius: 15px;
+}
+.teamcard h2
+{
+    color: #fff;
+    padding: 10px;
+}
+.teamcard p
+{
+    color: #fff;
+}
+.teamcard a
+{
+    color: #fff;
+    padding: 10px 5px;
+    margin-top: 10px;
+}
+
+.teamcard img
+{
+    border: none;
+    max-width: 100%;
+    height: 120px !important;
+}

@@ -1,0 +1,34 @@
+cars  
+- id
+- car_name
+- model
+- price
+- img
+- type
+- power
+
+users 
+- user_id
+- username
+- email
+- phone
+- password
+
+admin :- 
+- admin_id 
+- username
+- phone
+- password
+
+orders :-
+- o_id
+- car_id
+- car_name
+-car_type
+- branch
+- email
+- note
+- phone
+- date
+- o_status
+- user_id
